@@ -12,4 +12,10 @@ My reading list of AI Agents
   - This is best framework if you would like to understand how AI frameworks fundamentally work, everything else is wrappers
   - [Author's youtube channel, this is gold mine](https://www.youtube.com/watch?v=h3N1Lecptb0)
     - this explains the Agent Framework
-- 
+
+## 2026
+
+### Feb
+- [building the effective multiagentic system for deep or research](https://www.anthropic.com/engineering/multi-agent-research-system)
+- [Deep Research AI Agent Design](https://www.youtube.com/watch?v=dw9Vkig47S0)
+- [Ai Agent system design](https://www.youtube.com/watch?v=CyLYY_xb5bQ)
